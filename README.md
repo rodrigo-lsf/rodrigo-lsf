@@ -4,9 +4,9 @@
 
 <p>Me chamo Rodrigo Luiz Sena Fialho, sou natural de Recife, Pernambuco, e formado em Ciência da Computação pela UniFBV.</p>
 
-<p>Sou desenvolvedor front-end em início de carreira, com quase uma década de experiência na área de TI. Servi durante 8 anos na 🇧🇷 Força Aérea Brasileira ✈️, sendo mais de 6 anos atuando com suporte, manutenção e infraestrutura na Seção de Meios Computacionais do CINDACTA III.</p>
+<p>Sou desenvolvedor full stack com quase uma década de experiência na área de TI. Servi durante 8 anos na 🇧🇷 Força Aérea Brasileira ✈️, sendo mais de 6 anos atuando com suporte, manutenção e infraestrutura na Seção de Meios Computacionais do CINDACTA III.</p>
 
-<p>Após o fim do meu serviço militar, passei a me dedicar com mais intensidade ao desenvolvimento de software. Participei de um sistema full stack de PDV e gestão comercial, de landing pages publicadas para eventos médicos reais e de projetos pessoais voltados ao aprimoramento técnico.</p>
+<p>Após o fim do meu serviço militar, passei a me dedicar com mais intensidade ao desenvolvimento de software. Participei, em equipe, de um sistema full stack de PDV e gestão comercial, desenvolvi dois sites institucionais publicados para eventos médicos reais e mantenho projetos pessoais voltados ao aprimoramento técnico.</p>
 
 <hr>
 
@@ -22,8 +22,8 @@
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
-    <h3><a href="https://github.com/jgfn1/luka">Landing pages — eventos médicos</a></h3>
-    <p>Front-end de duas landing pages publicadas para congressos reais, com layout responsivo, programação dinâmica e metadados SEO/Open Graph.</p>
+    <h3><a href="https://github.com/jgfn1/luka">Sites institucionais — eventos médicos</a></h3>
+    <p>Responsável pelo desenvolvimento de dois sites institucionais publicados para congressos reais, com layout responsivo, programação dinâmica e metadados SEO/Open Graph.</p>
     <p><strong>Entregas:</strong></p>
     <ul>
       <li><a href="https://www.oncodermarecife2026.com.br/">II Simpósio Oncoderma Recife</a> (<code>oncoderma2026/</code>)</li>

@@ -167,11 +167,3 @@
 
 <br>
 <br>
-
-<h2>📊 Estatísticas</h2>
-
-<img
-    align="left"
-    alt="GitHub Stats"
-    src="https://github-readme-stats-fast.vercel.app/api?username=rodrigo-lsf&show_icons=true&theme=tokyonight&locale=pt-br"
-/>

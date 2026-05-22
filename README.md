@@ -14,23 +14,23 @@
 
 <div>
   <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
-    <h3><a href="https://github.com/RGPay/rgpay">RGPay</a></h3>
+    <h3><a href="https://github.com/rodrigo-lsf/portfolio-cases/tree/main/rgpay">RGPay</a></h3>
     <p>Sistema full stack de PDV e gestão comercial para bares, restaurantes e casas de show — dashboard, CRUD multi-unidade, relatórios CSV/PDF e protótipo de integração com terminais Cielo Lio.</p>
-    <p><strong>Entregas:</strong> <a href="https://rgpay.vercel.app/login">demo</a> · <a href="https://github.com/RGPay/rgpay">repositório</a> (screenshots no README)</p>
+    <p><strong>Entregas:</strong> <a href="https://rgpay.vercel.app/">demo (login)</a> · <a href="https://github.com/rodrigo-lsf/portfolio-cases/tree/main/rgpay">screenshots e documentação</a></p>
     <p><strong>Tecnologias:</strong> TypeScript, React, MUI, Redux, NestJS, PostgreSQL, Vercel, Azure, GitHub Actions</p>
-    <p><strong>Status:</strong> Descontinuado antes da finalização · desenvolvido em equipe (3 devs)</p>
+    <p><strong>Status:</strong> Descontinuado antes da finalização · desenvolvido em equipe (3 devs) · código-fonte privado</p>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
-    <h3><a href="https://github.com/jgfn1/luka">Sites institucionais — eventos médicos</a></h3>
+    <h3><a href="https://github.com/rodrigo-lsf/portfolio-cases">Sites institucionais — eventos médicos</a></h3>
     <p>Responsável pelo desenvolvimento de dois sites institucionais publicados para congressos reais, com layout responsivo, programação dinâmica e metadados SEO/Open Graph.</p>
     <p><strong>Entregas:</strong></p>
     <ul>
-      <li><a href="https://www.oncodermarecife2026.com.br/">II Simpósio Oncoderma Recife</a> (<code>oncoderma2026/</code>)</li>
-      <li><a href="https://www.congressoendoginecorecife.com.br/">Congresso Endogineco Recife</a> (<code>endogineco2026/</code>)</li>
+      <li><a href="https://www.oncodermarecife2026.com.br/">II Simpósio Oncoderma Recife</a> · <a href="https://github.com/rodrigo-lsf/portfolio-cases/tree/main/oncoderma">screenshots e documentação</a></li>
+      <li><a href="https://www.congressoendoginecorecife.com.br/">Congresso Endogineco Recife</a> · <a href="https://github.com/rodrigo-lsf/portfolio-cases/tree/main/endogineco">screenshots e documentação</a></li>
     </ul>
     <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript, Vercel</p>
-    <p><strong>Status:</strong> Publicado</p>
+    <p><strong>Status:</strong> Publicado · código-fonte privado</p>
   </div>
 </div>
 

@@ -6,7 +6,7 @@
 
 <p>Sou desenvolvedor full stack com quase uma década de experiência na área de TI. Servi durante 8 anos na 🇧🇷 Força Aérea Brasileira ✈️, sendo mais de 6 anos atuando com suporte, manutenção e infraestrutura na Seção de Meios Computacionais do CINDACTA III.</p>
 
-<p>Após o fim do meu serviço militar, passei a me dedicar com mais intensidade ao desenvolvimento de software. Participei, em equipe, de um sistema full stack de PDV e gestão comercial, desenvolvi dois sites institucionais publicados para eventos médicos reais e mantenho projetos pessoais voltados ao aprimoramento técnico.</p>
+<p>Após o fim do meu serviço militar, passei a me dedicar com mais intensidade ao desenvolvimento de software. Participei, em equipe, de um sistema full stack de PDV e gestão comercial e, em parceria técnica com a Automa IT & Development, desenvolvo e mantenho quatro sites institucionais publicados para eventos médicos reais, para um cliente recorrente.</p>
 
 <hr>
 
@@ -23,14 +23,16 @@
 
   <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
     <h3><a href="https://github.com/rodrigo-lsf/portfolio-cases">Sites institucionais — eventos médicos</a></h3>
-    <p>Responsável pelo desenvolvimento de dois sites institucionais publicados para congressos reais, com layout responsivo, programação dinâmica e metadados SEO/Open Graph.</p>
+    <p>Em parceria técnica com a <strong>Automa IT &amp; Development</strong>, sou o único responsável pela parte técnica de quatro sites institucionais publicados para congressos reais do cliente recorrente <strong>Luka Plan Promoções e Eventos</strong>, com layout responsivo, internacionalização, programação dinâmica e metadados SEO/Open Graph.</p>
     <p><strong>Entregas:</strong></p>
     <ul>
       <li><a href="https://www.oncodermarecife2026.com.br/">II Simpósio Oncoderma Recife</a> · <a href="https://github.com/rodrigo-lsf/portfolio-cases/tree/main/oncoderma">screenshots e documentação</a></li>
       <li><a href="https://www.congressoendoginecorecife.com.br/">Congresso Endogineco Recife</a> · <a href="https://github.com/rodrigo-lsf/portfolio-cases/tree/main/endogineco">screenshots e documentação</a></li>
+      <li><a href="https://www.spmpq.com.br/">II Simpósio Pernambucano Multidisciplinar de Prevenção de Quedas</a> · <a href="https://github.com/rodrigo-lsf/portfolio-cases/tree/main/spmpq">screenshots e documentação</a></li>
+      <li><a href="https://www.recifetorax2026.com.br/">Recife Tórax 2026</a> · <a href="https://github.com/rodrigo-lsf/portfolio-cases/tree/main/recifetorax">screenshots e documentação</a></li>
     </ul>
-    <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript, Vercel</p>
-    <p><strong>Status:</strong> Publicado · código-fonte privado</p>
+    <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript, Python, Vercel</p>
+    <p><strong>Status:</strong> Publicado · atualização contínua · código-fonte privado</p>
   </div>
 </div>
 
@@ -107,14 +109,6 @@
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-    align="left"
-    alt="Next.js"
-    title="Next.js"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
 />
 <img
     align="left"
